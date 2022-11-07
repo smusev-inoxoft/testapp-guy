@@ -27,10 +27,8 @@ const FeedScreen: React.FC = () => {
                 <Text style={styles.textLight}>
                     Price: ${data.item.price}
                 </Text>
-
             </View>
         </View>
-
     )
 
     return (
